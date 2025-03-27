@@ -14,6 +14,7 @@ First I transcribed the compounds in the post and converted them to SMILES.
 
 Then I calculated the [Proudfoot Complexity Metrics](https://www.sciencedirect.com/science/article/abs/pii/S0960894X17302433) for molecular complexity. I find these quite intuitive to use. Additionally, the Python code for calculating them has been published in the second publication given above.
 
+You can find all of the code and supporting data [here](https://github.com/chemicalg/chemicalg_blog/2025-03-27-MolecularComplexity)
 
 ```python
 #import modules
