@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+### Hello!
 
-![Image of fast.ai logo](images/logo.png)
+My name is George. I am a hobbist python coder insterested in data analysis to guide decision making for organic synthesis. That means using cheminformatics, and some visualisations.
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+I hope you enjoy the content.
