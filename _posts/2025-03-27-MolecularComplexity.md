@@ -370,7 +370,7 @@ img_
 
 
     
-![png](output_8_0.png)
+![png](/images/2025-03-27-MolecularComplexity_output_8_0.png)
     
 
 
@@ -420,7 +420,7 @@ grid_mols_with_annotation(mols_, labels_, annotation_size=40)
 
 
     
-![png](output_12_0.png)
+![png](/images/2025-03-27-MolecularComplexity_output_12_0.png)
     
 
 
@@ -526,7 +526,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](/images/2025-03-27-MolecularComplexity_output_16_0.png)
     
 
 
@@ -550,7 +550,7 @@ mol
 
 
     
-![png](output_19_0.png)
+![png](/images/2025-03-27-MolecularComplexity_output_19_0.png)
     
 
 
@@ -591,7 +591,7 @@ mol
 
 
     
-![png](output_23_0.png)
+![png](/images/2025-03-27-MolecularComplexity_output_23_0.png)
     
 
 
@@ -606,7 +606,7 @@ fig = SimilarityMaps.GetSimilarityMapFromWeights(mol, cas, alpha=0.1)#, colorMap
 
 
     
-![png](output_25_0.png)
+![png](/images/2025-03-27-MolecularComplexity_output_25_0.png)
     
 
 
@@ -666,7 +666,7 @@ fig = SimilarityMaps.GetSimilarityMapFromWeights(mol, cas_processed, alpha=0.2)#
 
 
     
-![png](output_31_0.png)
+![png](/images/2025-03-27-MolecularComplexity_output_31_0.png)
     
 
 
@@ -707,49 +707,49 @@ for smile in data['SMILES']:
 
 
     
-![png](output_34_0.png)
+![png](/images/2025-03-27-MolecularComplexity_output_34_0.png)
     
 
 
 
     
-![png](output_34_1.png)
+![png](/images/2025-03-27-MolecularComplexity_output_34_1.png)
     
 
 
 
     
-![png](output_34_2.png)
+![png](/images/2025-03-27-MolecularComplexity_output_34_2.png)
     
 
 
 
     
-![png](output_34_3.png)
+![png](/images/2025-03-27-MolecularComplexity_output_34_3.png)
     
 
 
 
     
-![png](output_34_4.png)
+![png](/images/2025-03-27-MolecularComplexity_output_34_4.png)
     
 
 
 
     
-![png](output_34_5.png)
+![png](/images/2025-03-27-MolecularComplexity_output_34_5.png)
     
 
 
 
     
-![png](output_34_6.png)
+![png](/images/2025-03-27-MolecularComplexity_output_34_6.png)
     
 
 
 Let's compare the above figures with the attributed complexity hotspots from the LinkedIn post:
 
-![Highlighted Complexity Hotspots](Picture1.png)
+![Highlighted Complexity Hotspots](/images/025-03-27-MolecularComplexity_Picture1.png)
 
 Here are a few examples:
 
@@ -760,8 +760,3 @@ Here are a few examples:
 - For GS-6207: Again very arbitrary points of the compound are highlighted. On the other hand the calculation shows us that there are non-obvious complexity hotspots around the gem-dimethyl groups next to the methane-sulfonate group, the cyclopropapyl and gem-difluoro area as well as the junction of the indole and the ortho-and meta- carbon atoms of the pyridine ring.
 
 In conclusion, molecular complexity is a quantity that can be quantified in different ways and can give us a better graps of the synthetic challenge that a compound may pose. I would strongly recommend to avoid using the term without any calculations and their associated caveats to refrain from generalities. Especially since with Python, RDKit and some personal drive, one can get numbers that may be of actual use.
-
-
-```python
-
-```
