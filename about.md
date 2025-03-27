@@ -1,4 +1,7 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+My name is George and I am interested in data-led decision making for chemical synthesis. That usually means some cheminformatics and visualisations.
 
+I hope you enjoy this content.
+
+You can follow me on BlueSky: georgekarag.bsk.social
