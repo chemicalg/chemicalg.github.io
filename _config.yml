@@ -12,7 +12,7 @@ github_username: chemicalg
 
 # Email and bluesky are optional:
 email:
-bluesky_username: "@georgekarag.bsky.social"
+bluesky_username: "https://bsky.app/profile/georgekarag.bsky.social"
 
 # Set this to true to get LaTeX math equation support
 use_math: True
