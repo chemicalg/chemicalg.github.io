@@ -1,6 +1,10 @@
+### Synthetic Route Graph visualisation
+
 I have recently been looking into representing chemical routes as network graph objects and specifically directed acyclic graphs (DAGs). DAGs are a well known and established mathematical object, and available in python using the [networkx package](https://networkx.org/documentation/stable/index.html). 
 
 The immediate problem I run into was their visualisation. While networkx is an excellent package for graph processing, the output of Matplotlib is far from ideal.
+
+This is documented [elsewhere](https://wimyedema.medium.com/drawing-dags-5cadcb452115) as well - it's not just my problem.
 
 We will use the synthesis of [paracetamol as an example](https://en.wikipedia.org/wiki/Paracetamol#Chemistry), since I have done so [previously](https://chemicalg.github.io/2025/05/21/ChemicalStructuresWithBokeh.html) as well.
 
