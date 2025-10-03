@@ -653,7 +653,7 @@ img
 
 
     
-![png](images/2025-10-03-FGF-output_13_0.png)
+![png](/images/2025-10-03-FGF-output_13_0.png) 
     
 
 
