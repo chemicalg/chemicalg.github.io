@@ -1,3 +1,5 @@
+# Functional Group Filter
+
 Here is a problem I have come across recently:
 
 Given a list of SMILES is there a tool or way of recognising which functional groups each SMILES has ?
