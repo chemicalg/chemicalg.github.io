@@ -436,7 +436,7 @@ img
 
 
     
-![png](output_23_0.png)
+![images/2026-02-01-CommercialAvailability_output_23_0.png](https://github.com/chemicalg/chemicalg.github.io/blob/master/images/2026-02-01-CommercialAvailability_output_23_0.png)
     
 
 
