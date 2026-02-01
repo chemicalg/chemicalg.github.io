@@ -1,4 +1,4 @@
-## Commercial Availability
+# Commercial Availability
 
 I recently run into the problem of needing to know on demand whether a compound or reagent is commercially available using only a given name.
 
